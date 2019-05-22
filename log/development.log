@@ -201,3 +201,4 @@ Processing by PostsController#index as HTML
 Completed 200 OK in 25ms (Views: 20.4ms | ActiveRecord: 1.5ms)
 
 
+Started GET "/posts" for 93.115.195.88 at 2019-05-22 10:27:01 +0000
